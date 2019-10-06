@@ -1,0 +1,13 @@
+D:\Verigeo\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.2\WebApiPrueba.deps.json
+D:\Verigeo\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.2\WebApiPrueba.runtimeconfig.json
+D:\Verigeo\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.2\WebApiPrueba.runtimeconfig.dev.json
+D:\Verigeo\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.2\WebApiPrueba.dll
+D:\Verigeo\WebApiPrueba\WebApiPrueba\bin\Debug\netcoreapp2.2\WebApiPrueba.pdb
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.AssemblyInfo.cs
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.dll
+D:\Verigeo\WebApiPrueba\WebApiPrueba\obj\Debug\netcoreapp2.2\WebApiPrueba.pdb
